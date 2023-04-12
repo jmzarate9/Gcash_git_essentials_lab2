@@ -1,0 +1,3 @@
+[submodule "Gcash_git_essential_hello"]
+	path = Gcash_git_essential_hello
+	url = git@github.com:jmzarate9/Gcash_git_essential_hello.git
